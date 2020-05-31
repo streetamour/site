@@ -120,7 +120,8 @@ analytics:
     tracking_id: "UA-168099146-1"
     anonymize_ip: false # default
 
-locale: "ru-RU"
+site:
+  locale: "ru-RU"
 
 comments:
   provider: "facebook"
