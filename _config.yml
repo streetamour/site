@@ -121,3 +121,6 @@ analytics:
     anonymize_ip: false # default
 
 locale: "RU"
+
+comments:
+  provider: "facebook"
